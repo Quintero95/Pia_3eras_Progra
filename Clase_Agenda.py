@@ -4,3 +4,4 @@ class Agenda:
 	def __init__(self):
 		# crearemos una lista donde guardaremos los datos de nuestra agenda
 		self.contactos=[]
+		

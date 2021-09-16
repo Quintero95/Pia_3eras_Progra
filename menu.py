@@ -2,7 +2,7 @@
 def menu(self):
 		print()
 		menu=[
-			['Agenda Personal'],
+			[' Agenda Personal De Proveedores '],
 			['1. Añadir Contacto',"anadir"],
 			['2. Lista de contactos'],
 			['3. Buscar contacto'],

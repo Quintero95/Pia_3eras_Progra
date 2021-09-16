@@ -23,3 +23,8 @@ def editar(self):
 				self.contactos[data]['email']=email
 			elif option==4:
 				condition=True
+
+
+# bloque principal
+agenda=Agenda()
+agenda.menu()
